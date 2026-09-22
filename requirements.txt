@@ -1,5 +1,16 @@
-opencv-python
+# Core
 numpy
 pillow
+opencv-python
+ 
+# Training (run on x86 dev machine)
 torch
 torchvision
+ 
+# On-device / NPU deployment (run on Snapdragon device)
+onnx
+onnxruntime
+ 
+# Demo UI
+streamlit
+ 
